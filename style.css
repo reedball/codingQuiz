@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+#timeRemaining {
+    display: inline;
+    position: absolute;
+    right: 0px;
+}
+
+#middleBox {
+    text-align: center;
+    margin-top: 30px;
+}
+
+#codingQuiz {
+    text-align: -webkit-center;
+    visibility: hidden;
+}
+
+.question {
+    display: block;
+}
+
+div .buttons {
+    display: block;
+}
+
+.answer {
+    display: block;
+}
